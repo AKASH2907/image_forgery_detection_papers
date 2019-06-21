@@ -21,7 +21,16 @@ A collection of traditional and deep learning approaches for image forgery detec
 
 **2017**
 
+* Salloum, Ronald, Yuzhuo Ren and C.-C. Jay Kuo. “Image Splicing Localization Using A Multi-Task Fully Convolutional Network (MFCN).” J. Visual Communication and Image Representation 51 (2018): 201-209.[[Paper]](https://arxiv.org/abs/1709.02016)
+
+* Fabio Carrara, Fabrizio Falchi, Roberto Caldelli, Giuseppe Amato, Roberta Fumarola, and Rudy Becarelli. 2017. Detecting adversarial example attacks to deep neural networks. In Proceedings of the 15th International Workshop on Content-Based Multimedia Indexing (CBMI '17). ACM, New York, NY, USA, Article 38, 7 pages. DOI: 10.1145/3095713.3095753. [[Paper]](https://dl.acm.org/citation.cfm?id=3095713.3095753)
+
+* J. Ouyang, Y. Liu and M. Liao, "Copy-move forgery detection based on deep learning," 2017 10th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), Shanghai, 2017, pp. 1-5. doi: 10.1109/CISP-BMEI.2017.8301940. [[paper]](https://ieeexplore.ieee.org/document/8301940)
+
+
 **2018**
+
+* Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos. Huy H. Nguyen, Junichi Yamagishi, Isao Echizen. [[Paper]](https://arxiv.org/abs/1810.11215)
 
 **2019**
 
