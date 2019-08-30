@@ -43,7 +43,7 @@ A collection of traditional and deep learning approaches for image forgery detec
 ## Datasets Available
 
 * [CASIA V1 & V2 Dataset](https://www.kaggle.com/sophatvathana/casia-dataset)
-* [CoMoFoD]
-* [GRIP]
-* [Columbia-Splicing]
+* [CoMoFoD](http://www.vcl.fer.hr/comofod/comofod.html)
+* [GRIP](http://www.grip.unina.it/research/83-image-forensics/88-copy-of-mdka-843.html)
+* [Columbia-Splicing](http://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm)
 
