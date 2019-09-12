@@ -30,8 +30,10 @@ A collection of traditional and deep learning approaches for image forgery detec
 **2018**
 
 * Y. Wu, W. Abd-Almageed, and P. Natarajan. Image copymove forgery detection via an end-to-end deep neural network. In WACV, pages 1907–1915. IEEE, 2018. [[Paper]](https://www.researchgate.net/publication/324997846_Image_Copy-Move_Forgery_Detection_via_an_End-to-End_Deep_Neural_Network/citations)
-* Wu, Yue, Wael Abd-Almageed and Premkumar Natarajan. “BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization.” ECCV (2018). [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rex_Yue_Wu_BusterNet_Detecting_Copy-Move_ECCV_2018_paper.pdf)
+* Wu, Yue, Wael Abd-Almageed and Premkumar Natarajan. “BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization.” ECCV (2018). [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rex_Yue_Wu_BusterNet_Detecting_Copy-Move_ECCV_2018_paper.pdf) [[Code]](https://github.com/isi-vista/BusterNet)
 * Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos. Huy H. Nguyen, Junichi Yamagishi, Isao Echizen. [[Paper]](https://arxiv.org/abs/1810.11215)
+* MesoNet: a Compact Facial Video Forgery Detection Network. Darius Afchar, Vincent Nozick, Junichi Yamagishi, Isao Echizen. [[Paper]](https://arxiv.org/pdf/1809.00888) [[Code]](https://github.com/DariusAf/MesoNet)
+* Annadani, Yashas and C. V. Jawahar. Augment and Adapt: A Simple Approach to Image Tampering Detection. [[Paper]](http://yashasannadani.com/assets/publications/2018_icpr/paper.pdf)
 
 **2019**
 
