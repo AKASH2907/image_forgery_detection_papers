@@ -1,8 +1,6 @@
 # image_forgery_detection_papers
 A collection of traditional and deep learning approaches for image forgery detection
 
-## Classical Approaches
-
 ## Deep Learning Approaches
 
 **2015**
@@ -45,5 +43,5 @@ A collection of traditional and deep learning approaches for image forgery detec
 * [CASIA V1 & V2 Dataset](https://www.kaggle.com/sophatvathana/casia-dataset)
 * [CoMoFoD](http://www.vcl.fer.hr/comofod/comofod.html)
 * [GRIP](http://www.grip.unina.it/research/83-image-forensics/88-copy-of-mdka-843.html)
-* [Columbia-Splicing](http://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm)
-
+* [Columbia Image-Splicing](http://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm)
+* [Face Forensics](https://github.com/ondyari/FaceForensics) [[Paper]](https://arxiv.org/pdf/1901.08971.pdf) 
