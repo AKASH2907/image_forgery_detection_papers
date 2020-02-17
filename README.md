@@ -40,10 +40,21 @@ A collection of traditional and deep learning approaches for image forgery detec
 * Seunghoon Hong, Tackgeun You, Suha Kwak, Bohyung Han, Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network, arXiv:1502.06796. [[Paper]](http://arxiv.org/pdf/1502.06796)
 
 
-## Datasets Available
+# Datasets Available
 
+## Image Forgery
 * [CASIA V1 & V2 Dataset](https://www.kaggle.com/sophatvathana/casia-dataset)
 * [CoMoFoD](http://www.vcl.fer.hr/comofod/comofod.html)
 * [GRIP](http://www.grip.unina.it/research/83-image-forensics/88-copy-of-mdka-843.html)
 * [Columbia Image-Splicing](http://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm)
 * [Face Forensics](https://github.com/ondyari/FaceForensics) [[Paper]](https://arxiv.org/pdf/1901.08971.pdf) 
+
+## Deepfakes
+
+| dataset | manipulations | # pristine/forged| frame size | format |
+| :---         |     :---     |       :---: | :---: | :---: |
+| DF-TIMIT | deepfake |  -/620 | 64x64 - 128x128 | JPG |
+| FFW    |deepfake, splicing, CG | -/150 | 480p, 720p, 1080p | H.264 |  
+| FaceForensics++ | deepfake, CG-manipulations | 1000/4000 | 480p, 720p, 1080p | H.264, CRF=0, 23, 40 |
+| Celeb-DF | deepfake | 529/5639 | various | MPEG4 |
+| DFDC | deepfake | 19154/100,000|  240p - 2160p |H.264 |
